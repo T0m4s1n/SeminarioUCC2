@@ -59,6 +59,10 @@
       position: relative;
       overflow: hidden;
   }
+
+  .tab.active span{
+    font-family:"Poppins", sans-serif;
+  }
   
   .tab svg {
       transition: transform var(--transition-speed) ease;
