@@ -14,7 +14,7 @@ const About = () => {
             <div className="inner-container">
                 <h1>Informacion</h1>
                 <div className="text">
-                    Informacion del seminario no tengo idea de que podria ser y me da mucho miedo que me mires asi danilo andres montezuma ibarra que te esta pasando de verdad, siento que tienes un pollon de 2 kilometros de distancia debes cuidarte eso es malo para la salud
+                    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
                 </div>
                 <div className="skills">
                     <span>Web Design</span>
