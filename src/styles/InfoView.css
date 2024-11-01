@@ -25,6 +25,8 @@
     gap: 1.5rem;
     padding: 2rem;
     max-width: 100%;
+    justify-content: center;
+    margin-left: 60px;
 }
 
 .hex {
