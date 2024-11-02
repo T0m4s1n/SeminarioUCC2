@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Footer.css';
-import bannerImage from '../assets/logotipo.svg';
+import bannerImage2 from '../assets/logotipo.svg';
 import { Facebook, Youtube, Instagram, X } from 'lucide-react';
 
 const Footer = () => {
@@ -27,7 +27,7 @@ const Footer = () => {
                         <p>2024 © Todos los derechos reservados</p>
                     </div>
                     <div class="autor">
-                        <a href=""><img className="banner-image" src={bannerImage} alt="banner" /></a>
+                        <a href=""><img className="banner-image2" src={bannerImage2} alt="banner" /></a>
                         <p>Desarrollado por: River Bonilla <br /> Tomas Benavides</p>
                     </div>
                 </div> 
