@@ -249,6 +249,7 @@
       visibility: hidden;
       transition: all var(--transition-speed) ease;
       z-index: -1;
+      border-radius: 16px;
   }
   
   .header.active::before {
