@@ -165,13 +165,14 @@
   font-family: "Poppins", sans-serif;
 }
 
-.ucc-icon {
-  width: 50px;
-  height: auto;
+.banner-image2 {
+  width: 150px;
+  height: 150px;
   transition: transform 0.3s ease;
+  align-items: center;
 }
 
-.ucc-icon:hover {
+.banner-image2:hover{
   transform: scale(1.1);
 }
 
